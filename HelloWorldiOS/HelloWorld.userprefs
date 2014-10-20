@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/AppDelegate.cs">
     <Files>
-      <File FileName="HelloWorld/AppDelegate.cs" Line="93" Column="93" />
+      <File FileName="HelloWorld/AppDelegate.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

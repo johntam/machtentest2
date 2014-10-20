@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{481B4E40-A963-4DB4-868C-AFC1F1B510AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldAndroid", "..\HelloWorldAndroid\HelloWorldAndroid\HelloWorldAndroid.csproj", "{237AE326-EE1E-499C-9CCD-6A1AE403644E}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "..\SharedProject\SharedProject\SharedProject.shproj", "{AA270F88-8BBB-462C-93A9-31DE207A1622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -13,6 +17,18 @@ Global
 		AppStore|iPhone = AppStore|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Release|iPhone.Build.0 = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{237AE326-EE1E-499C-9CCD-6A1AE403644E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{481B4E40-A963-4DB4-868C-AFC1F1B510AA}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
 		{481B4E40-A963-4DB4-868C-AFC1F1B510AA}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
 		{481B4E40-A963-4DB4-868C-AFC1F1B510AA}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
