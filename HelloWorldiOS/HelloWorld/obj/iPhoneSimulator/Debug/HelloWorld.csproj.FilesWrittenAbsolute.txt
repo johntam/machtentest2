@@ -1,0 +1,14 @@
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.plist
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.plist
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.storyboardc/Info.plist
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPhone.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.storyboardc/Info.plist
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard_iPad.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/Default-568h@2x.png
+/Users/rock/Projects/HelloWorld/HelloWorld/bin/iPhoneSimulator/Debug/HelloWorld.exe.mdb
+/Users/rock/Projects/HelloWorld/HelloWorld/bin/iPhoneSimulator/Debug/HelloWorld.exe
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/HelloWorld.exe
+/Users/rock/Projects/HelloWorld/HelloWorld/obj/iPhoneSimulator/Debug/HelloWorld.exe.mdb
